@@ -17,3 +17,7 @@ Example 1 is an example of server streaming with gRPC in Go
 ### example_02
 
 Example 2 is an example of client streaming with gRPC in Go
+
+### example_03
+
+Example 3 is an example of a bidirecitonal client and server with gRPC in Go
